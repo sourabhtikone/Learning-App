@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_features"
+        android:enabled="true"
+        android:title="Feature"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_star_border_24"/>
+    <item
+        android:id="@+id/action_learn"
+        android:enabled="true"
+        android:title="Learn"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+    <item
+        android:id="@+id/action_games"
+        android:enabled="true"
+        android:title="Games"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_sports_esports_24"/>
+
+
+
+
+
+
+</menu>

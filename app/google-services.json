@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672121087844",
+    "firebase_url": "https://enr-the-learning-app.firebaseio.com",
+    "project_id": "enr-the-learning-app",
+    "storage_bucket": "enr-the-learning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672121087844:android:08efab8ada52152890fc71",
+        "android_client_info": {
+          "package_name": "com.example.enr_thelearningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672121087844-ab8vi6cr4dj4oudep05jm5nggetfshm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hPuTFMuCPY9VrlOic58dLn2Ob3Hj_UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672121087844-ab8vi6cr4dj4oudep05jm5nggetfshm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
