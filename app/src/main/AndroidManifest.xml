@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AlphabetItem"></activity>
+        <activity android:name=".SpellingActivity"></activity>
+        <activity android:name=".AlphabetItem" />
         <activity android:name=".AlphabetsActivity" />
         <activity android:name=".Kids_poem" />
         <activity android:name=".Kids_game" />

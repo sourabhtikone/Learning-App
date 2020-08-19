@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:text="colorgame"
+        android:text="colorname"
         android:textSize="30sp"
         android:id="@+id/color1"/>
     <Button
@@ -31,6 +31,15 @@
         android:layout_below="@+id/poem"
         android:textSize="30sp"
         android:id="@+id/alphabets"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Spelling"
+        android:layout_below="@+id/alphabets"
+        android:textSize="30sp"
+        android:id="@+id/spelling"/>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
